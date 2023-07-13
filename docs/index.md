@@ -1,26 +1,26 @@
- mimi made changes
- # mimi made changes again on 11 juli 2023
- # Im a daughter of heavenly parents
-  
-  
-# Welcome to MkDocs
+Coddets Bootcamp2023 journey
 
-This is a test site hosted on [GitLab Pages](https://pages.gitlab.io). You can
-[browse its source code](https://gitlab.com/pages/mkdocs), fork it and start
-using it on your projects.
+About me
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+================
 
-## Commands
+My name is Che-ann Wirjosentono, I'm 16 years old.\
+I am currently in VWO 4 and hope to become more experience in the tech category.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+![](https://lh6.googleusercontent.com/qXvWxCqqRBU9VD4ZDOwO2ICTdfWW2VZNy0NoTxk-9Xk2izY6bf2dCm8xNktbilqZV97O35_vG1IkZ1CrhI3lwaZExloemAjbU8V0ceZlgTR00XShXSGoo4izcyvFHUveYKTSRC9kxpTw4UpYNDrdYkQ)
 
-## Project layout
+Day1
+====
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![](https://lh5.googleusercontent.com/FYbRSSDPbnjxVcmNA5ySvwE3Kk9wGieTswfiWVvxpm9Up8ETtZz165BbrP60YnySoqKNURHme39OdIiBXtDz8q7LMGMmRKrZHdX0fuKZLluCmCvPrHDy8UU9JQiAtB0UI2_jmWdib-cex8pWwipDDkc)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Objective
+=========
+
+Project management\
+Setting up my GitHub account\
+Creating a website for my documentation.\
+Online to Offline and Offline to Online
+-----------------------------------------------------------------------------------------------------------------------------------
