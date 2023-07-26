@@ -7,7 +7,7 @@ My name's Mi-ann wirjosentono and I am 17 years old. I am also a student at VWO 
 Table of contents
 =================
 
-[Table of contents  1](https://docs.google.com/document/d/13sZbaGHma7G1alFXlHgEXsepavRpZrmooM9GichnCSc/edit#heading=h.xb3x0aer686r)
+[Table of contents  1](https://milowika.github.io/Bootcamp2023-mi-ann/d/13sZbaGHma7G1alFXlHgEXsepavRpZrmooM9GichnCSc/edit#heading=h.xb3x0aer686r)
 
 [Unit: Project Management  5](https://docs.google.com/document/d/13sZbaGHma7G1alFXlHgEXsepavRpZrmooM9GichnCSc/edit#heading=h.mo567z2wc1dc)
 
